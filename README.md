@@ -1,6 +1,7 @@
 # flutter_gymapp
 
-Projeto em Flutter para criar um app de academia
+Projeto em Flutter para criar um app onde usuários podem fazer anotações à respeito de seus 
+exercícios fisícos.
 
 ## Getting Started
 

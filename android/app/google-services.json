@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1089515102106",
+    "project_id": "flutter-gymapp-be968",
+    "storage_bucket": "flutter-gymapp-be968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089515102106:android:9d6698c53dbb77eeef2423",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089515102106-2u83lqkiotncqhlt4avl1n4hidl2n8qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHb8dzujV5XCVP2DtA79YZ7teu-x-1rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089515102106-2u83lqkiotncqhlt4avl1n4hidl2n8qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089515102106-mmltm48nqetbrigbuh44r0emphqltio8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterGymapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
