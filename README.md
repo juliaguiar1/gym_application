@@ -3,6 +3,8 @@
 Projeto em Flutter para criar um app onde usuários podem fazer anotações à respeito de seus 
 exercícios fisícos.
 
+Video de apresentação da 1ª Atividade Avaliativa: https://www.youtube.com/watch?v=rtnwbG2dif4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
